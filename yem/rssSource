@@ -10,9 +10,9 @@
         "ruleLink": "$.url",
         "rulePubDate": "$.time",
         "ruleTitle": "$.title",
-        "sourceGroup": "VIP",
+        "sourceGroup": "书源",
         "sourceIcon": "http://photo.16pic.com/00/33/99/16pic_3399189_b.jpg",
-        "sourceName": "进入导入书源",
+        "sourceName": "导入书源",
         "sourceUrl": "https://ddwhrs.github.io/cun/custom/customRss.json"
     }
 ]
