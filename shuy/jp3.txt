@@ -1,6 +1,6 @@
 [
     {
-        "bookSourceGroup": "🔰  正版; 📡  发现",
+        "bookSourceGroup": "书源2🔰  正版; 📡  发现",
         "bookSourceName": "🔰长佩文学",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.gongzicp.com",
@@ -49,7 +49,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🔰  正版; 📡  发现",
+        "bookSourceGroup": "书源2🔰  正版; 📡  发现",
         "bookSourceName": "🔰晋江文学",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.jjwxc.net",
@@ -95,7 +95,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎧  有声",
+        "bookSourceGroup": "书源2🎧  有声",
         "bookSourceName": "🎧猫耳FM",
         "bookSourceType": 1,
         "bookSourceUrl": "https://www.missevan.com",
@@ -130,7 +130,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎧  有声",
+        "bookSourceGroup": "书源2🎧  有声",
         "bookSourceName": "🎧有声听书",
         "bookSourceType": 1,
         "bookSourceUrl": "https://www.ysts8.net",
@@ -165,7 +165,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸书客吧",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.shukeba.com",
@@ -200,7 +200,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸看书君",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.kanshujun.com",
@@ -247,7 +247,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸三千五",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.cn3k5.com",
@@ -310,7 +310,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🌸御书文",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.yushuwen.com",
@@ -373,7 +373,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸笔趣阁",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.xsbiquge.net",
@@ -417,7 +417,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸百度云",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.53zw.net",
@@ -457,7 +457,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸风华居",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.fenghuaju.cc",
@@ -499,7 +499,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸齐努力",
         "bookSourceType": 0,
         "bookSourceUrl": "https://i.qinuli.net",
@@ -540,7 +540,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸101言情",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.txt101.com",
@@ -589,7 +589,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸就爱谈",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.9itan.com",
@@ -630,7 +630,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸阿迪夫",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.adf.cc",
@@ -667,7 +667,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸快读小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://lunbo.gdugm.cn",
@@ -730,7 +730,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸多多书院",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.txtduo.com",
@@ -771,7 +771,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸33言情",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.33yq.com",
@@ -813,7 +813,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸久久小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.txt909.cc",
@@ -852,7 +852,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸天天中文",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.ttzw.com",
@@ -886,7 +886,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸青花鱼",
         "bookSourceType": 0,
         "bookSourceUrl": "https://allcp.net",
@@ -926,7 +926,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸笔下文学",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.bxwx.com",
@@ -964,7 +964,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸若尘文学",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.ffbook.cc",
@@ -1027,7 +1027,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸百合小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.baihexs.com",
@@ -1065,7 +1065,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸166小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.juyit.com",
@@ -1104,7 +1104,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸丫丫阅读",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.yayayd.com",
@@ -1138,7 +1138,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸四库书",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.sikushu8.com",
@@ -1201,7 +1201,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸九桃小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.9txs.com",
@@ -1241,7 +1241,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸言情888",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.yanqing-888.net",
@@ -1304,7 +1304,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸玫瑰小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.meiguixs.net",
@@ -1344,7 +1344,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸笔下书屋",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.bixiabook.com",
@@ -1382,7 +1382,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🌸晨曦小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://m.chenxixiaoshuo.com",
@@ -1419,7 +1419,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸饭饭论坛",
         "bookSourceType": 0,
         "bookSourceUrl": "https://bbs.fanfann.com",
@@ -1455,7 +1455,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸格格党",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.62326.net",
@@ -1490,7 +1490,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸歪歪小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.huangshiruanbao.com/index.html",
@@ -1548,7 +1548,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🌸  常用",
+        "bookSourceGroup": "书源2🌸  常用",
         "bookSourceName": "🌸5G小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.5gxs.com",
@@ -1589,7 +1589,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯斋书苑",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.zhaishuyuan.com",
@@ -1652,7 +1652,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯读一读",
         "bookSourceType": 0,
         "bookSourceUrl": "http://duyidu.net",
@@ -1689,7 +1689,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯新笔下",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.xbxwx.net-By Dark",
@@ -1752,7 +1752,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯衍墨轩",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.ymoxuan.org",
@@ -1790,7 +1790,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯速阅阁",
         "bookSourceType": 0,
         "bookSourceUrl": "http://m.suyueg.com",
@@ -1821,7 +1821,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯全小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://qxs.la",
@@ -1854,7 +1854,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯笔趣阁",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.bqg5.cc",
@@ -1888,7 +1888,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯完本神站",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.wanbentxt.com",
@@ -1938,7 +1938,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现; 💯  精选",
+        "bookSourceGroup": "书源2📡  发现; 💯  精选",
         "bookSourceName": "💯有兔阅读",
         "bookSourceType": 0,
         "bookSourceUrl": "http://app.youzibank.com",
@@ -1974,7 +1974,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯  精选",
+        "bookSourceGroup": "书源2💯  精选",
         "bookSourceName": "💯幼狮书盟",
         "bookSourceType": 0,
         "bookSourceUrl": "http://m.yssm.info",
@@ -2009,7 +2009,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎈  普通",
+        "bookSourceGroup": "书源2🎈  普通",
         "bookSourceName": "🎈幅书吧",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.fushubw.com",
@@ -2048,7 +2048,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎈  普通",
+        "bookSourceGroup": "书源2🎈  普通",
         "bookSourceName": "🎈当小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.downxs.com",
@@ -2086,7 +2086,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎈  普通",
+        "bookSourceGroup": "书源2🎈  普通",
         "bookSourceName": "🎈无限小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.555x.org",
@@ -2124,7 +2124,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎈  普通",
+        "bookSourceGroup": "书源2🎈  普通",
         "bookSourceName": "🎈耽美书屋",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.danmeishuwu.com",
@@ -2161,7 +2161,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🎈  普通",
+        "bookSourceGroup": "书源2🎈  普通",
         "bookSourceName": "🎈笔笔文学",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.bibiwx.com",
@@ -2224,7 +2224,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈鲤鱼乡",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.bllyxw.com",
@@ -2257,7 +2257,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈腐小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.jiqinw.com",
@@ -2320,7 +2320,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈肉肉书",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.rouroushu.com",
@@ -2354,7 +2354,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈当书网",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.downbookw.com#",
@@ -2400,7 +2400,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈52书库",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.52shuku.me",
@@ -2444,7 +2444,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈52书库",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.52shukuw.com",
@@ -2486,7 +2486,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈一曲书斋",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.yiqushu.com",
@@ -2529,7 +2529,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈美文网",
         "bookSourceType": 0,
         "bookSourceUrl": "http://m.365mww.com",
@@ -2562,7 +2562,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈耽美书网",
         "bookSourceType": 0,
         "bookSourceUrl": "https://wap.dmshuwang.org",
@@ -2600,7 +2600,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈256文学",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.256wenxue.com",
@@ -2640,7 +2640,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈久久小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.jjxsw.la",
@@ -2685,7 +2685,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "🎈宅阅读",
         "bookSourceType": 0,
         "bookSourceUrl": "https://m.zhaiyd6.com",
@@ -2748,7 +2748,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📚  出版",
+        "bookSourceGroup": "书源2📚  出版",
         "bookSourceName": "📚四大名著",
         "bookSourceType": 0,
         "bookSourceUrl": "https://book.sidamingzhu.org",
@@ -2792,7 +2792,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📚  出版",
+        "bookSourceGroup": "书源2📚  出版",
         "bookSourceName": "📚超星图书",
         "bookSourceType": 0,
         "bookSourceUrl": "http://yz4.chaoxing.com",
@@ -2831,7 +2831,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📚  出版",
+        "bookSourceGroup": "书源2📚  出版",
         "bookSourceName": "📚100本网",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.100ben.net",
@@ -2875,7 +2875,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📚  出版",
+        "bookSourceGroup": "书源2📚  出版",
         "bookSourceName": "📚移动阅读",
         "bookSourceType": 0,
         "bookSourceUrl": "http://m.ndlib.cn",
@@ -2911,7 +2911,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📚  出版",
+        "bookSourceGroup": "书源2📚  出版",
         "bookSourceName": "📚稻草人",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.daocaorenshuwu.com",
@@ -2959,7 +2959,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "📖轻之国度",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.lightnovel.cn",
@@ -3022,7 +3022,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "📡  发现",
+        "bookSourceGroup": "书源2📡  发现",
         "bookSourceName": "📖百合会",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.yamibo.com/site/novel",

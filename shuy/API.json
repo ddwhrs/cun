@@ -1,6 +1,6 @@
 [
   {
-    "bookSourceGroup": "API",
+    "bookSourceGroup": "书源4API",
     "bookSourceName": "★APP-1★",
     "bookSourceType": 0,
     "bookSourceUrl": "https://shuapi.jiaston.com#1",
@@ -18,7 +18,7 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "API",
+    "bookSourceGroup": "书源4API",
     "bookSourceName": "★APP-2★",
     "bookSourceType": 0,
     "bookSourceUrl": "https://quapp.shenbabao.com",
@@ -36,7 +36,7 @@
     "weight": 0
   },
   {
-  "bookSourceGroup": "API",
+  "bookSourceGroup": "书源4API",
   "bookSourceName": "★APP-3★",
   "bookSourceType": 0,
   "bookSourceUrl": "https://shuapi.jiaston.com#2",
@@ -54,7 +54,7 @@
   "weight": 0
 },
   {
-    "bookSourceGroup": "API",
+    "bookSourceGroup": "书源4API",
     "bookSourceName": "★APP-4★",
     "bookSourceType": 0,
     "bookSourceUrl": "https://novel.riji8.com",
@@ -72,7 +72,7 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "API",
+    "bookSourceGroup": "书源4API",
     "bookSourceName": "★APP-5★",
     "bookSourceType": 0,
     "bookSourceUrl": "http://47.56.207.234",
@@ -90,7 +90,7 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "API",
+    "bookSourceGroup": "书源4API",
     "bookSourceName": "★APP-6★",
     "bookSourceType": 0,
     "bookSourceUrl": "http://api.biquge123456.com",
